@@ -1,4 +1,28 @@
-# Projetos em HTML e CSS
+# 🧑‍💻 Projetos HTML e CSS
 
-Aqui estão meus primeiros projetos desenvolvidos durante os estudos em desenvolvimento web.  
-Todos foram feitos com HTML5 e CSS3, acompanhando cursos e práticas livres.
+Este repositório contém meus primeiros projetos desenvolvidos com HTML5 e CSS3.
+
+São páginas simples criadas durante meu aprendizado em desenvolvimento web, com foco em estrutura, tags semânticas e estilo básico.
+
+---
+
+## 📄 Projetos incluídos
+
+- `index.html` → Página básica com título, texto e estilo interno (inline CSS)
+
+---
+
+## 🛠️ Tecnologias usadas
+
+- HTML5
+- CSS3
+- GitHub
+
+---
+
+## 📚 Em andamento
+
+- Formulários
+- Estilização com classes
+- Responsividade
+- Portfólio pessoal
